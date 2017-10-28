@@ -12,8 +12,8 @@ If you have already used jupyter notebooks, then it is easy to get started:
 2. Click on new and select python 3 notebook.
 3. Edit the sample lesson
 4. Validate the lesson by clicking on 'Validate'
-5. Test the lesson by clicking on 'Test'
-6. Continue to add new lessons by clicking on 'MakeLesson'
+5. Test the lesson by clicking on 'Test' after saving the lesson by clicking on 'Save and Checkpoint' in File.
+6. Continue to add new lessons by clicking on 'MakeLesson' 
 
 * For detailed instructions specific to using refactored look at the word document: Hackathon_at_UTD_Fall17.docx
 
