@@ -1,6 +1,10 @@
 # University of Texas, Dallas - Hackathon Oct 2017
 
+Hackathon URL: http://hackathon.refactored.ai
+
 Here are instructions for the hackathon as well as scoring guidelines. There are 3 problems that you can pick and choose from based on their level of complexity. Note that easier ones too have bonus points for additional work. 
+
+* For instructions specific to using refactored look at the word document: Hackathon_at_UTD_Fall17.docx
 
 Problem 1: EDA on Grad Students
 
@@ -74,3 +78,4 @@ Bonus:
 * Y_HAT - containing the predictions on the test dataset. : 5 points
 
 Level : Difficult.
+
