@@ -32,6 +32,9 @@ Pandas library in Python is one of the most widely used libraries for data analy
 * Submit to GitHub: 10 points
 * Level : EDA-Easy, Prediction-Difficult
 
+Naming Convention:
+* Name your Python file as <Team Name>_grad_students
+
 Problem 2: EDA for the Women in STEM dataset
 
 Data: https://github.com/fivethirtyeight/data/blob/master/college-majors/women-stem.csv
@@ -56,6 +59,9 @@ Level: Medium
 * Model name stem_model.
 * MSE_Train, MSE_Test for the mean squared error and Pred_Test for predictions on the test dataset.
 
+Naming Convention:
+* Name your Python file as <Team Name>_stem_women
+  
 # Problem 3: Somerville Happiness Survey
 
 Data : https://data.somervillema.gov/api/views/yevj-2b33/rows.csv
@@ -89,4 +95,8 @@ Bonus:
 * Y_HAT - containing the predictions on the test dataset. : 5 points
 
 Level : Difficult.
+
+Naming Convention:
+
+* Name your Python file as <Team Name>_happy_somer
 
