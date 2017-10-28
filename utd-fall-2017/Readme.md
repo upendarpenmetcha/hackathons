@@ -6,7 +6,7 @@ Language: Python 3
 Here are instructions for the hackathon as well as scoring guidelines. There are 3 problems that you can pick and choose from based on their level of complexity. 
 
 ## Hack Away
-If you have already used jupyter notebooks, then it is easy to get started:
+Create an account on http://refactored.ai. If you have already used jupyter notebooks, then it is easy to get started:
 
 1. Click on http://hackathon.refactored.ai and access your notebook environment.
 2. Click on new and select python 3 notebook.
