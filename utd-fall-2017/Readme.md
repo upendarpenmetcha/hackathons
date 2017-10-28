@@ -17,7 +17,7 @@ If you have already used jupyter notebooks, then it is easy to get started:
 
 * For detailed instructions specific to using refactored look at the word document: Hackathon_at_UTD_Fall17.docx
 
-Problem 1: EDA on Grad Students
+Problem 1: EDA and Prediction of Graduate Employment Rate (GER) on Grad Students data
 
 Data Link: https://github.com/colaberry/data/blob/master/Grad_Students/grad-students.csv
 
@@ -28,11 +28,11 @@ Loading the dataset
 Pandas library in Python is one of the most widely used libraries for data analysis, due to the functions and features it provides. The dataframe is an object which allows storage of a table. The given dataset can be loaded into a dataframe for analysis. The read_csv function of Pandas library can read contents of a csv file into a dataframe.
 
 * Submit the EDA as a course: 50 points
-* Perform EDA on the dataset: 40 points
+* Perform prediction of GER (using linear regression only) on the dataset: 40 points
 * Submit to GitHub: 10 points
-* Level : Easy
+* Level : EDA-Easy, Prediction-Difficult
 
-Problem 1: Women in STEM
+Problem 2: EDA for the Women in STEM dataset
 
 Data: https://github.com/fivethirtyeight/data/blob/master/college-majors/women-stem.csv
 ## History
@@ -56,7 +56,7 @@ Level: Medium
 * Model name stem_model.
 * MSE_Train, MSE_Test for the mean squared error and Pred_Test for predictions on the test dataset.
 
-# Problem 2: Somerville Happiness Survey
+# Problem 3: Somerville Happiness Survey
 
 Data : https://data.somervillema.gov/api/views/yevj-2b33/rows.csv
 ## About the Dataset
