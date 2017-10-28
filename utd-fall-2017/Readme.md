@@ -3,7 +3,7 @@
 Hackathon URL: http://hackathon.refactored.ai
 Language: Python 3
 
-Here are instructions for the hackathon as well as scoring guidelines. There are 3 problems that you can pick and choose from based on their level of complexity. Note that easier ones too have bonus points for additional work. 
+Here are instructions for the hackathon as well as scoring guidelines. There are 3 problems that you can pick and choose from based on their level of complexity. 
 
 ## Hack Away
 If you have already used jupyter notebooks, then it is easy to get started:
@@ -17,7 +17,7 @@ If you have already used jupyter notebooks, then it is easy to get started:
 
 * For detailed instructions specific to using refactored look at the word document: Hackathon_at_UTD_Fall17.docx
 
-Problem 1: EDA on Grad Students
+## Problem 1: EDA on Grad Students
 
 Data Link: https://github.com/colaberry/data/blob/master/Grad_Students/grad-students.csv
 
@@ -32,7 +32,7 @@ Pandas library in Python is one of the most widely used libraries for data analy
 * Submit to GitHub: 10 points
 * Level : Easy
 
-Problem 1: Women in STEM
+## Problem 2: Women in STEM
 
 Data: https://github.com/fivethirtyeight/data/blob/master/college-majors/women-stem.csv
 ## History
@@ -49,6 +49,8 @@ The dataset consists of 75 STEM major studies divided into 5 categories. It also
 * Split the dataset into training and testing at 80:20 ratio. Use random seed = 12345. 10 Points
 * Fit a linear regression model to predict the ShareWomen. Use model name stem_model. Bonus +10 points
 * Predict ShareWomen using the model and calculate mean squared error for training and testing datasets. +10 points
+* Deliverable: Name your notebook as <Team Name>_Stem_Women.ipynb 
+
 Level: Medium
 
 ## Use the following variable names
@@ -56,7 +58,7 @@ Level: Medium
 * Model name stem_model.
 * MSE_Train, MSE_Test for the mean squared error and Pred_Test for predictions on the test dataset.
 
-# Problem 2: Somerville Happiness Survey
+## Problem 3: Somerville Happiness Survey
 
 Data : https://data.somervillema.gov/api/views/yevj-2b33/rows.csv
 ## About the Dataset
@@ -79,6 +81,7 @@ Some of the questions asked in the survey include:
 * Provide the visualizations for the data to aid in the analysis: 10 points
 * Fit the model using logistic regression : 20 points
 * Export to GitHub: 10 points
+* Deliverable: Name your notebook as <Team Name>_Happy_Somer.ipynb
 
 Bonus: 
 * Calculate the Mean Square Error (MSE) for the test predictions : 10 points
