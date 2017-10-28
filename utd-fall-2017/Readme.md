@@ -1,10 +1,21 @@
 # University of Texas, Dallas - Hackathon Oct 2017
 
 Hackathon URL: http://hackathon.refactored.ai
+Language: Python 3
 
 Here are instructions for the hackathon as well as scoring guidelines. There are 3 problems that you can pick and choose from based on their level of complexity. Note that easier ones too have bonus points for additional work. 
 
-* For instructions specific to using refactored look at the word document: Hackathon_at_UTD_Fall17.docx
+## Hack Away
+If you have already used jupyter notebooks, then it is easy to get started:
+
+1. Click on http://hackathon.refactored.ai and access your notebook environment.
+2. Click on new and select python 3 notebook.
+3. Edit the sample lesson
+4. Validate the lesson by clicking on 'Validate'
+5. Test the lesson by clicking on 'Test'
+6. Continue to add new lessons by clicking on 'MakeLesson'
+
+* For detailed instructions specific to using refactored look at the word document: Hackathon_at_UTD_Fall17.docx
 
 Problem 1: EDA on Grad Students
 
