@@ -1,8 +1,8 @@
 # University of Texas, Dallas - Hackathon Oct 2017
 
-Create an account on http://refactored.ai
-Hackathon URL: http://hackathon.refactored.ai
-Language: Python 3
+* Create an account on http://refactored.ai
+* Hackathon URL: http://hackathon.refactored.ai
+* Language: Python 3
 
 Here are instructions for the hackathon as well as scoring guidelines. There are 3 problems that you can pick and choose from based on their level of complexity. 
 
