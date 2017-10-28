@@ -17,8 +17,8 @@ Loading the dataset
 Pandas library in Python is one of the most widely used libraries for data analysis, due to the functions and features it provides. The dataframe is an object which allows storage of a table. The given dataset can be loaded into a dataframe for analysis. The read_csv function of Pandas library can read contents of a csv file into a dataframe.
 
 * Submit the EDA as a course: 50 points
-* Perform EDA on the dataset: 30 points
-* Submit to GitHub: 20 points
+* Perform EDA on the dataset: 40 points
+* Submit to GitHub: 10 points
 * Level : Easy
 
 Problem 1: Women in STEM
