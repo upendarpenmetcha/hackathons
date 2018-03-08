@@ -36,11 +36,13 @@ Historic price of bitcoins are provided for analysis. Your task is to
 
 ### 1.1 Time-Series Analysis
 
-Here is an example of time series analysis on Arctic Sea Ice:
+Here is an example of time series analysis on Arctic Sea Ice that you can use for your own analysis.
 
-[Arctic Sea Ice](https://github.com/colaberry/refactored_labs/blob/master/Arctic_Sea_Ice_Analysis.ipynb)
+Reference notebook: [Arctic Sea Ice](https://github.com/colaberry/refactored_labs/blob/master/Arctic_Sea_Ice_Analysis.ipynb)
 
-**Data Description**
+### 1.2 Data Description
+
+[Bitcoin data](https://github.com/colaberry/data/tree/master/Bitcoin)
 
 * Date : Date of observation
 * btc_market_price : Average USD market price across major bitcoin exchanges.
@@ -76,9 +78,15 @@ Fraud is the event of illegal access or execution of a transaction. Fraud modeli
 
 A company Alpha solutions provides fraud detection products, solutions and services to financial businesses. One such financial client has many credit card transactions that are provided as the training data. They want the Financial Data Scientist to build models using the available training data. 
 
-<img src="../images/bayesian_network.png", style="width: 400px;">
+<img src="../images/bayesian_network.png", style="width: 800px;">
 
 Reference notebook: [Titanic Survival Prediction](https://github.com/colaberry/refactored_labs/blob/master/Titanic-Revisited.ipynb)
+
+### 2.3 Dataset
+
+The data is 10K size samples indicating the categorical variables corresponding to the various categories as shown in the image above.
+
+[fraud data](https://github.com/colaberry/data/blob/master/Fraud/fraud_data.csv)
 
 ## 3.0 Air Quality Analysis
 
