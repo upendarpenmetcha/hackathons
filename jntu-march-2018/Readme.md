@@ -14,7 +14,7 @@ will not be entertained at this point.
 ## Student Group Selection
 
 We shall pick best performing groups amongst the submissions. For reference of best notebooks you can look at:
-[Titanic Surviva Prediction](https://github.com/colaberry/refactored_labs/blob/master/Titanic-Revisited.ipynb)
+[Titanic Survival Prediction](https://github.com/colaberry/refactored_labs/blob/master/Titanic-Revisited.ipynb)
 
 You can also learn what steps you need to take to produce such work at:
 
@@ -66,21 +66,26 @@ Here is an example of time series analysis on Arctic Sea Ice:
 * btc_output_volume : The total value of all transaction outputs per day.
 * btc_estimated_transaction_volume : The total estimated value of transactions on the Bitcoin blockchain.
 
-
-
-
-
-## 2.0 Problem Statement 
+## 2.0 Alpha Solutions Fraud Detection
 
 ### 2.1 Overview of Fraud Detection
 
 Fraud is the event of illegal access or execution of a transaction. Fraud modeling is the process where large amounts of transactional data is analyzed to identify observations which do not generally follow the regular patterns. Due to this nature of the problem, anamoly detection and some classification techniques are most suited to analyze such problems and draw valuable insights. More details are available on [wiki](https://en.wikipedia.org/wiki/Data_analysis_techniques_for_fraud_detection):
 
-### 2.2 Alpha Solutions Fraud Detection
+### 2.2 Problem Statement
 
 A company Alpha solutions provides fraud detection products, solutions and services to financial businesses. One such financial client has many credit card transactions that are provided as the training data. They want the Financial Data Scientist to build models using the available training data. 
 
-<img src="images/bayesian_network.png", style="width: 400px;">
+<img src="../images/bayesian_network.png", style="width: 400px;">
 
+Reference notebook: [Titanic Survival Prediction](https://github.com/colaberry/refactored_labs/blob/master/Titanic-Revisited.ipynb)
 
+## 3.0 Air Quality Analysis
 
+All of this data comes from EPA’s Air Quality System (AQS). Data collection agencies report their data to EPA via this system and it calculates several types of aggregate (summary) data for EPA internal use. This includes daily and annual summaries, but not monthly summaries, as these are not routinely needed by EPA. More details can be found at: https://aqs.epa.gov/aqsweb/airdata/FileFormats.html
+
+### 3.1 Dataset
+
+[Air Quality 8 hour sample data](https://github.com/colaberry/data/blob/master/8hour_42101_2017_10K.csv)
+
+Reference notebook: [Titanic Survival Prediction](https://github.com/colaberry/refactored_labs/blob/master/Titanic-Revisited.ipynb)
