@@ -1,0 +1,24 @@
+﻿Field Position,Field Name,Description
+1,State Code,The FIPS code of the state in which the monitor resides.
+2,County Code,The FIPS code of the county in which the monitor resides.
+3,Site Num,A unique number within the county identifying the site.
+4,Parameter Code,The AQS code corresponding to the parameter measured by the monitor.
+5,POC,This is the “Parameter Occurrence Code” used to distinguish different instruments that measure the same parameter at the same site.
+6,Latitude,The monitoring site’s angular distance north of the equator measured in decimal degrees.
+7,Longitude,The monitoring site’s angular distance east of the prime meridian measured in decimal degrees.
+8,Datum,The Datum associated with the Latitude and Longitude measures.
+9,Parameter Name,The name or description assigned in AQS to the parameter measured by the monitor. Parameters may be pollutants or non-pollutants.
+10,Date Local,The calendar date of the average in Local Standard Time at the monitor.
+11,Time Local,The time of day for the average on a 24-hour clock in Local Standard Time.
+12,Date GMT,The calendar date of the average in Greenwich Mean Time.
+13,Time GMT,The time of day for the average on a 24-hour clock in Greenwich Mean Time.
+14,Sample Duration,"The averaging period. Will always be 8-hours for these files, but the fact that the ozone time stamp is at the begin hour of an 8-hour period and CO is at the end hour is reiterated."
+15,Pollutant Standard,A description of the ambient air quality standard rules used to aggregate statistics. (See description at beginning of document.)
+16,Units of Measure,The unit of measure for the parameter. QAD always returns data in the standard units for the parameter. Submitters are allowed to report data in any unit and EPA converts to a standard unit so that we may use the data in calculations.
+17,Observation Count,The total number of observations (samples) taken during the 8-hour period.
+18,Observations with Events,The number of observations (samples) during the 8-hour period that were flagged by the data submitter as having been affected by an exceptional event.
+19,Null Observations,The number of observations (samples) during the 8-hour period that were missed (and reported as Null by the data submitter).
+20,Mean Including All Data,The average (arithmetic mean) value including all data reported in the 8-hour block.
+21,Mean Excluding All Flagged Data,The average (arithmetic mean) value excluding all data flagged by the data submitter as having been affected by an exceptional event.
+22,Mean Excluding All Concurred Flags,The average (arithmetic mean) value excluding data flagged by the data submitter as having been affected by an exceptional event and that the EPA has concurred should be excluded from NAAQS calculations.
+23,Date of Last Change,The date the last time any numeric values in this record were updated in the AQS data system.

@@ -10,7 +10,7 @@ results and most importantly follow the Refactored 5-cell format.
 * You shall use only python for all your programming as that is the industry standard. Any other language notebooks
 will not be entertained at this point.
 * Once you have completed your analysis, save your notebook and validate it on https://try.refactored.ai before submission.
-* Sumissions must be made to https://github.com/colaberry/hackathons/jntu-march-2018/ github repository.
+* Submissions must be made to https://github.com/colaberry/hackathons/jntu-march-2018/ github repository.
 
 
 ## Winner Selection
@@ -137,7 +137,7 @@ All of this data comes from EPA’s Air Quality System (AQS). Data collection ag
 
 ### 3.2 Dataset
 
-[Air Quality 8 hour sample data](https://github.com/colaberry/data/blob/master/8hour_42101_2017_10K.csv)
+[Air Quality 8 hour sample data](https://raw.githubusercontent.com/colaberry/data/master/8hour_42101_2017_10K.csv)
 
 Reference notebook: [Titanic Survival Prediction](https://github.com/colaberry/refactored_labs/blob/master/Titanic-Revisited.ipynb)
 
