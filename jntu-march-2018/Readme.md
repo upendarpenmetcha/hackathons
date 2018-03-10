@@ -3,15 +3,17 @@
 Welcome to the JNTU Hackathon. Here are the rules:
 
 * You can work in groups of maximum 3 students per team.
-* Each team is allowed just one submission to one of the problems listed below. Refer to Problem Statements section.
-* Your work shall get submitted as forked repositories to our master repo. 
+* Each team is allowed just one submission to any one of the 3 problems listed below. Refer to Problem Statements section.
 * Points shall be given to those notebooks that have enough explanations, exploratory analysis and
 results.
 * For reference, go through the lessons on Python, Data Science I at  http://www.refactored.ai.
 * You shall use only python for all your programming as that is the industry standard. Any other language notebooks
 will not be entertained at this point.
+* Once you have completed your analysis, save your notebook and validate it on https://try.refactored.ai before submission.
+* Sumissions must be made to https://github.com/colaberry/hackathons/ github repository.
 
-## Student Group Selection
+
+## Winner Selection
 
 We shall pick best performing groups amongst the submissions. For reference of best notebooks you can look at:
 [Titanic Survival Prediction](https://github.com/colaberry/refactored_labs/blob/master/Titanic-Revisited.ipynb)
