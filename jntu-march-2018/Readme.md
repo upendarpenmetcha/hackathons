@@ -5,12 +5,12 @@ Welcome to the JNTU Hackathon. Here are the rules:
 * You can work in groups of maximum 3 students per team.
 * Each team is allowed just one submission to any one of the 3 problems listed below. Refer to Problem Statements section.
 * Points shall be given to those notebooks that have enough explanations, exploratory analysis and
-results.
+results and most importantly follow the Refactored 5-cell format.
 * For reference, go through the lessons on Python, Data Science I at  http://www.refactored.ai.
 * You shall use only python for all your programming as that is the industry standard. Any other language notebooks
 will not be entertained at this point.
 * Once you have completed your analysis, save your notebook and validate it on https://try.refactored.ai before submission.
-* Sumissions must be made to https://github.com/colaberry/hackathons/ github repository.
+* Sumissions must be made to https://github.com/colaberry/hackathons/jntu-march-2018/ github repository.
 
 
 ## Winner Selection
@@ -84,7 +84,8 @@ Reference notebook: [Arctic Sea Ice](https://github.com/colaberry/refactored_lab
 Name your Jupyter notebook file as : 	 YourTeamID_Bit_Coin		
 (replace "YourTeamID" with the ID provided to your team)
 
-## 2.0 Alpha Solutions Fraud Detection
+
+## Problem  2.0 Alpha Solutions Fraud Detection
 
 ### 2.1 Overview of Fraud Detection
 
@@ -122,7 +123,8 @@ The data is 10K size samples indicating the categorical variables corresponding 
 Name your Jupyter notebook file as TeamID_Fraud_Detection  (replace YourTeamID with the ID provided to your team)
 
 
-## 3.0 Air Quality Analysis
+
+## Problem 3.0 Air Quality Analysis
 
 All of this data comes from EPA’s Air Quality System (AQS). Data collection agencies report their data to EPA via this system and it calculates several types of aggregate (summary) data for EPA internal use. This includes daily and annual summaries, but not monthly summaries, as these are not routinely needed by EPA. More details can be found at: https://aqs.epa.gov/aqsweb/airdata/FileFormats.html
 
