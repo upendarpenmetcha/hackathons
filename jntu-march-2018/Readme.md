@@ -32,7 +32,7 @@ Historic price of bitcoins are provided for analysis. Your task is to
 
 1. Ingest the data into a format that is easy for analysis.
 2. Perform Exploratory Data Analysis on the dataset.
-2. Can you predict the future price of the dataset? 
+3. Can you predict the future price of the dataset? 
 
 ### 1.1 Time-Series Analysis
 
@@ -70,15 +70,17 @@ Reference notebook: [Arctic Sea Ice](https://github.com/colaberry/refactored_lab
 
 ### 1.3 Evaluation Criteria:
 
-Submit the EDA and your solution as a course: 25 points
-Perform prediction of "btc_market_price" on the dataset using regression: 40 points
-Submit to GitHub: 10 points
-5 cell format : 20 points + 5 points for Unit testing block
-Level : EDA-Easy, Prediction-Medium
+* Submit the EDA and your solution as a course: 25 points
+* Perform prediction of "btc_market_price" on the dataset using regression: 40 points
+* Submit to GitHub: 10 points 
+* 5 cell format : 20 points + 5 points for Unit testing block
+* Level : EDA-Easy, Prediction-Medium 
+
 
 ### 1.4 Naming Convention:
 
-Name your Jupyter notebook file as YourTeamID_Bit_Coin  (replace YourTeamID with the ID provided to your team)
+Name your Jupyter notebook file as : 	 YourTeamID_Bit_Coin		
+(replace "YourTeamID" with the ID provided to your team)
 
 ## 2.0 Alpha Solutions Fraud Detection
 
@@ -92,6 +94,10 @@ A company Alpha solutions provides fraud detection products, solutions and servi
 
 <img src="../images/bayesian_network.png", style="width: 800px;">
 
+1. Ingest the data into a format that is easy for analysis.
+2. Perform Exploratory Data Analysis on the dataset.
+3. Perform classification on the dataset to detect fraud ( logistic regression, naive bayes classifier etc). 
+
 Reference notebook: [Titanic Survival Prediction](https://github.com/colaberry/refactored_labs/blob/master/Titanic-Revisited.ipynb)
 
 ### 2.3 Dataset
@@ -103,11 +109,11 @@ The data is 10K size samples indicating the categorical variables corresponding 
 
 ### 2.4 Evaluation Criteria:
 
-Submit the EDA and your solution as a course: 25 points
-Perform prediction of "Fraud" on the dataset using classification techniques: 40 points
-Submit to GitHub: 10 points
-5 cell format : 20 points + 5 points for Unit testing block
-Level : EDA-Easy, Prediction-Medium
+* Submit the EDA and your solution as a course: 25 points
+* Perform prediction of "Fraud" on the dataset using classification techniques: 40 points
+* Submit to GitHub: 10 points 
+* 5 cell format : 20 points + 5 points for Unit testing block
+* Level : EDA-Easy, Prediction-Medium 
 
 ### 2.5 Naming Convention:
 
@@ -122,7 +128,7 @@ All of this data comes from EPA’s Air Quality System (AQS). Data collection ag
 
 1. Ingest the data into a format that is easy for analysis.
 2. Perform Exploratory Data Analysis on the dataset.
-2. Perform clustering on the dataset to group data based on air quality. 
+3. Perform clustering on the dataset to group data based on air quality. 
 
 
 ### 3.2 Dataset
@@ -133,11 +139,12 @@ Reference notebook: [Titanic Survival Prediction](https://github.com/colaberry/r
 
 ### 3.3 Evaluation Criteria:
 
-Submit the EDA and your solution as a course: 25 points
-Perform clustering on the dataset using unsupervised learning methods (eg. k-means) : 40 points
-Submit to GitHub: 10 points
-5 cell format : 20 points + 5 points for Unit testing block
-Level : EDA-Medium, Prediction-Difficult
+* Submit the EDA and your solution as a course: 25 points
+* Perform clustering on the dataset using unsupervised learning methods (eg. k-means) : 40 points
+* Submit to GitHub: 10 points 
+* 5 cell format : 20 points + 5 points for Unit testing block
+* Level : EDA-Easy, Prediction-Medium 
+
 
 ### 3.4 Naming Convention:
 
