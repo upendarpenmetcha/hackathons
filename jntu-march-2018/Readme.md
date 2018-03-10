@@ -2,13 +2,13 @@
 
 Welcome to the JNTU Hackathon. Here are the rules:
 
-* You are free to work on as many datasets as you wish within the stipulated time.
 * Points shall be given to those notebooks that have enough explanations, exploratory analysis and
 results.
 * For reference, go through the lessons on Python, Data Science I at  http://www.refactored.ai.
 * You shall use only python for all your programming as that is the industry standard. Any other language notebooks
 will not be entertained at this point.
-* You can work in groups of maximum 4 students.
+* You can work in groups of maximum 3 students per team.
+* Each team is allowed just one submission for evaluation. 
 * Your work shall get submitted as forked repositories to our master repo. 
 
 ## Student Group Selection
@@ -24,7 +24,7 @@ You can also learn what steps you need to take to produce such work at:
 
 # Problem Statements
 
-We have 3 problem statements for you. You can choose to work on any or more than one. However, producing a good quality notebook takes time and in our experience, best performing groups have done mostly scored best on solving a single problem with an extensively explained analysis and solution. Here are the 3 problems all of which are equally complex:
+We have 3 problem statements for you. You can choose to work on any one of them. Producing a good quality notebook takes time and in our experience, best performing groups have done mostly scored best on solving a single problem with an extensively explained analysis and solution. Here are the 3 problems all of which are equally complex:
 
 ## Problem 1: Bitcoin Price Analysis
 
@@ -68,6 +68,18 @@ Reference notebook: [Arctic Sea Ice](https://github.com/colaberry/refactored_lab
 * btc_output_volume : The total value of all transaction outputs per day.
 * btc_estimated_transaction_volume : The total estimated value of transactions on the Bitcoin blockchain.
 
+### 1.3 Evaluation Criteria:
+
+Submit the EDA and your solution as a course: 25 points
+Perform prediction of "btc_market_price" on the dataset using regression: 40 points
+Submit to GitHub: 10 points
+5 cell format : 20 points + 5 points for Unit testing block
+Level : EDA-Easy, Prediction-Medium
+
+### 1.4 Naming Convention:
+
+Name your Jupyter notebook file as <TeamID>_Bit_Coin
+
 ## 2.0 Alpha Solutions Fraud Detection
 
 ### 2.1 Overview of Fraud Detection
@@ -88,12 +100,45 @@ The data is 10K size samples indicating the categorical variables corresponding 
 
 [fraud data](https://github.com/colaberry/data/blob/master/Fraud/fraud_data.csv)
 
+
+### 2.4 Evaluation Criteria:
+
+Submit the EDA and your solution as a course: 25 points
+Perform prediction of "Fraud" on the dataset using classification techniques: 40 points
+Submit to GitHub: 10 points
+5 cell format : 20 points + 5 points for Unit testing block
+Level : EDA-Easy, Prediction-Medium
+
+### 2.5 Naming Convention:
+
+Name your Jupyter notebook file as <TeamID>_Fraud_Detection
+
+
 ## 3.0 Air Quality Analysis
 
 All of this data comes from EPA’s Air Quality System (AQS). Data collection agencies report their data to EPA via this system and it calculates several types of aggregate (summary) data for EPA internal use. This includes daily and annual summaries, but not monthly summaries, as these are not routinely needed by EPA. More details can be found at: https://aqs.epa.gov/aqsweb/airdata/FileFormats.html
 
-### 3.1 Dataset
+### 3.1 Problem Statement
+
+1. Ingest the data into a format that is easy for analysis.
+2. Perform Exploratory Data Analysis on the dataset.
+2. Perform clustering on the dataset to group data based on air quality. 
+
+
+### 3.2 Dataset
 
 [Air Quality 8 hour sample data](https://github.com/colaberry/data/blob/master/8hour_42101_2017_10K.csv)
 
 Reference notebook: [Titanic Survival Prediction](https://github.com/colaberry/refactored_labs/blob/master/Titanic-Revisited.ipynb)
+
+### 3.3 Evaluation Criteria:
+
+Submit the EDA and your solution as a course: 25 points
+Perform clustering on the dataset using unsupervised learning methods (eg. k-means) : 40 points
+Submit to GitHub: 10 points
+5 cell format : 20 points + 5 points for Unit testing block
+Level : EDA-Medium, Prediction-Difficult
+
+### 3.4 Naming Convention:
+
+Name your Jupyter notebook file as <TeamID>_Air_Quality
