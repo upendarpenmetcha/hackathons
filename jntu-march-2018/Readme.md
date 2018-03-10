@@ -2,14 +2,14 @@
 
 Welcome to the JNTU Hackathon. Here are the rules:
 
+* You can work in groups of maximum 3 students per team.
+* Each team is allowed just one submission to one of the problems listed below. Refer to Problem Statements section.
+* Your work shall get submitted as forked repositories to our master repo. 
 * Points shall be given to those notebooks that have enough explanations, exploratory analysis and
 results.
 * For reference, go through the lessons on Python, Data Science I at  http://www.refactored.ai.
 * You shall use only python for all your programming as that is the industry standard. Any other language notebooks
 will not be entertained at this point.
-* You can work in groups of maximum 3 students per team.
-* Each team is allowed just one submission for evaluation. 
-* Your work shall get submitted as forked repositories to our master repo. 
 
 ## Student Group Selection
 
@@ -78,7 +78,7 @@ Level : EDA-Easy, Prediction-Medium
 
 ### 1.4 Naming Convention:
 
-Name your Jupyter notebook file as <TeamID>_Bit_Coin
+Name your Jupyter notebook file as YourTeamID_Bit_Coin  (replace YourTeamID with the ID provided to your team)
 
 ## 2.0 Alpha Solutions Fraud Detection
 
@@ -111,7 +111,7 @@ Level : EDA-Easy, Prediction-Medium
 
 ### 2.5 Naming Convention:
 
-Name your Jupyter notebook file as <TeamID>_Fraud_Detection
+Name your Jupyter notebook file as TeamID_Fraud_Detection  (replace YourTeamID with the ID provided to your team)
 
 
 ## 3.0 Air Quality Analysis
@@ -141,4 +141,4 @@ Level : EDA-Medium, Prediction-Difficult
 
 ### 3.4 Naming Convention:
 
-Name your Jupyter notebook file as <TeamID>_Air_Quality
+Name your Jupyter notebook file as TeamID_Air_Quality (replace YourTeamID with the ID provided to your team)
