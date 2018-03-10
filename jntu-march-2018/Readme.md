@@ -116,7 +116,7 @@ The data is 10K size samples indicating the categorical variables corresponding 
 * Perform prediction of "Fraud" on the dataset using classification techniques: 40 points
 * Submit to GitHub: 10 points 
 * 5 cell format : 20 points + 5 points for Unit testing block
-* Level : EDA-Easy, Prediction-Medium 
+* Level : EDA-Easy, Prediction-Medium
 
 ### 2.5 Naming Convention:
 
@@ -147,7 +147,8 @@ Reference notebook: [Titanic Survival Prediction](https://github.com/colaberry/r
 * Perform clustering on the dataset using unsupervised learning methods (eg. k-means) : 40 points
 * Submit to GitHub: 10 points 
 * 5 cell format : 20 points + 5 points for Unit testing block
-* Level : EDA-Easy, Prediction-Medium 
+* Level : EDA-Hard, Prediction-Hard
+* Since difficulty level is Hard, your score will be normalized by a scaling factor *1.3
 
 
 ### 3.4 Naming Convention:
