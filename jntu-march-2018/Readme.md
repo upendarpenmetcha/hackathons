@@ -127,6 +127,7 @@ Name your Jupyter notebook file as TeamID_Fraud_Detection  (replace "TeamID" wit
 ## Problem 3.0 Air Quality Analysis
 
 All of this data comes from EPA’s Air Quality System (AQS). Data collection agencies report their data to EPA via this system and it calculates several types of aggregate (summary) data for EPA internal use. This includes daily and annual summaries, but not monthly summaries, as these are not routinely needed by EPA. More details can be found at: https://aqs.epa.gov/aqsweb/airdata/FileFormats.html
+
 Refer to the field descriptions at : https://github.com/colaberry/hackathons/blob/master/data/aq_field_descriptions.csv
 
 ### 3.1 Problem Statement
