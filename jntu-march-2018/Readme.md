@@ -95,6 +95,7 @@ Fraud is the event of illegal access or execution of a transaction. Fraud modeli
 
 A company Alpha solutions provides fraud detection products, solutions and services to financial businesses. One such financial client has many credit card transactions that are provided as the training data. They want the Financial Data Scientist to build models using the available training data. 
 
+![Fraud Model](../images/bayesian_network.png)
 <img src="../images/bayesian_network.png", style="width: 800px;">
 
 1. Ingest the data into a format that is easy for analysis.
@@ -156,3 +157,8 @@ Reference notebook: [Titanic Survival Prediction](https://github.com/colaberry/r
 ### 3.4 Naming Convention:
 
 Name your Jupyter notebook file as TeamID_Air_Quality (replace "TeamID" with the actual ID assigned to your team)
+
+
+### Feedback
+
+[Feed back](https://docs.google.com/forms/d/e/1FAIpQLSdD9rpEveAWB8vthGWtFu8GzJhq8U_uxF0zz48Rxn_tzhEQpA/viewform?usp=sf_link)
